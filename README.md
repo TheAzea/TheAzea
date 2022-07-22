@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheAzea
+- 👀 I’m interested in Videogames
+- 🌱 I’m currently learning c++
+- 📫 How to reach me, DM me on discord at The_Azea#4972
